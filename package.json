@@ -1,0 +1,25 @@
+{
+  "name": "focus-test-paging",
+  "version": "1.0.0",
+  "description": "node服务 分页",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhangzhenguo3352/focus-test-paging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhangzhenguo3352/focus-test-paging/issues"
+  },
+  "homepage": "https://github.com/Zhangzhenguo3352/focus-test-paging#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1"
+  }
+}
